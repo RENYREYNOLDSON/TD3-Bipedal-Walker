@@ -18,7 +18,7 @@ measurements. The action space is shown in table 1 and is made up of 4 joints in
 starts standing with both legs in the same position with a slight knee angle.
 
 ### TD3 Algorithm
-The TD3 algorithm [3] learns a policy by storing past exploration of the environment in
+The TD3 algorithm learns a policy by storing past exploration of the environment in
 a replay buffer and then sampling these experiences. It begins with an initial exploration
 phase where the selected actions are random, this populates the replay buffer so that the
 actor and critic networks have sufficient information to start training on. The critic and
