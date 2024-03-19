@@ -53,3 +53,6 @@ energy then we get a larger reward and the iteration will have a larger effect o
 After each episode we train our agent for however many iterations were performed, this will
 use all of the new transitions stored in the replay buffer. Eventually this should get us to
 an optimal TD3 policy for the bipedal walker environment.
+
+### Walker Results
+
