@@ -60,3 +60,14 @@ an optimal TD3 policy for the bipedal walker environment.
 ### Walker Results
 ![Results](results.png)
 * The two provided videos show the best runs created by each walker.
+
+### References
+[1] In: url: https : / / github . com / philtabor / Youtube - Code - Repository / tree /
+master/ReinforcementLearning/PolicyGradient/TD3.
+[2] In: url: https : / / github . com / henry32144 / TD3 - Pytorch / blob / master /
+BipedalWalkerV2.ipynb.
+[3] David Meger 1 Scott Fujimoto Herke van Hoof. “Addressing Function Approximation
+Error in Actor-Critic Methods”. In: 2018.
+[4] Jonathan J. Hunt Timothy P. Lillicrap. “Continuous control with deep reinforcement
+learning”. In: 2019.
+
