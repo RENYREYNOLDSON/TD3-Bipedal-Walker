@@ -56,3 +56,4 @@ an optimal TD3 policy for the bipedal walker environment.
 
 ### Walker Results
 ![Results](results.png)
+* The two provided videos show the best runs created by each walker.
