@@ -55,4 +55,4 @@ use all of the new transitions stored in the replay buffer. Eventually this shou
 an optimal TD3 policy for the bipedal walker environment.
 
 ### Walker Results
-
+![Results](results.png)
